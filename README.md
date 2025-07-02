@@ -12,4 +12,7 @@
 ## Technologies Used  
 
 - HTML, CSS, JavaScript  
-- GitHub API (for fetching user data)  
+- GitHub API (for fetching user data)
+
+  ![image alt](https://github.com/Vikas3108/Github-Profile-Finder/blob/main/Screenshot/Screenshot%202025-07-02%20111513.png?raw=true)
+  ![image alt](https://github.com/Vikas3108/Github-Profile-Finder/blob/main/Screenshot/Screenshot%202025-07-02%20111537.png?raw=true)
